@@ -1,5 +1,5 @@
 # Sitecore.Support.130928
-Fixes the issue about SendEmailMessage save action doesn't replace tokens for the non-required fields.
+Fixes the issue with tokens that are not replaced for the non-required fields when executing the SendEmailMessage save action.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.130928/blob/master/LICENSE).  
